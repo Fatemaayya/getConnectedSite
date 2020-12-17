@@ -1,0 +1,91 @@
+.footerclass{
+  background-color: darkblue;
+  text-align: center;
+  padding:40px 0 50px 0;
+  margin: 0;
+  border: none;
+
+}
+.container{
+  margin-left: 107.400px;
+  margin-right: 107.400px;
+  padding: 0 15px 0 15px;
+}
+.row{
+  margin: 0 15px 0 15px;
+}
+.section-heading{
+
+}
+.section-heading h5{
+  line-height: 1;
+    font-size: 12px;
+    font-weight: 400;
+    letter-spacing: 3px;
+    text-transform: uppercase;
+    margin: 0;
+    padding-left: 15px;
+  text-align: center;
+  font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+}
+.section-heading h3{
+  font-family: 'Montserrat', sans-serif;
+    font-weight: 700;
+  text-align: center;
+  margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+}
+.white{
+  color: white;
+  line-height: 1;
+font-size: 26px;
+margin-top: 10px;
+margin-bottom: 10px;
+}
+.section-contents{
+  margin:20px 0 10px 0;
+  padding: 0 15px 0 15px;
+
+}
+ul{
+  display: block;
+list-style-type: disc;
+margin-block-start: 1em;
+margin-block-end: 1em;
+margin-inline-start: 0px;
+margin-inline-end: 0px;
+padding-inline-start: 40px;
+margin-bottom: 10px;
+display: block;
+}
+.connected-icons{
+  color: grey;
+  list-style: none;
+padding: 0;
+text-align: center;
+}
+.connected-icons li {
+    color: grey;
+    display: inline-block;
+    padding: 10px 20px;
+  }
+  ul li {
+    color: #888;
+    line-height: 32px;
+    font-weight: 300;
+}
+a{
+  color: grey;
+  text-decoration: none;
+}
+a:hover{
+  
+}
+
+
+.getconnected{
+
+}
